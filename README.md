@@ -5,6 +5,6 @@
     <br>I'm a FullStack Developer from Argentina.<br>
 </samp>
 
-<img src="https://media.tenor.com/ycX3UHxmstAAAAAi/sammm.gif" width="200"/>
+<img src="https://media.tenor.com/ycX3UHxmstAAAAAi/sammm.gif" width="100"/>
 
 </p>
